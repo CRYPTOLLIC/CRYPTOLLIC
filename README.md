@@ -88,7 +88,7 @@ An RFID-powered management solution designed to automate attendance and access m
 ## Contact
 
 * GitHub: https://github.com/CRYPTOLLIC
-* LinkedIn: Add your LinkedIn profile here
+* LinkedIn: vivek-nishad-301225256
 
 ---
 
